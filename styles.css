@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EBF4F6;
+}
+
+.introduction {
+    background: #071952;
+    padding-bottom: 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    background: #071952;
+    padding-right: 10px;
+}
+
+#profilepic {
+    width: 100px;
+    border-radius: 50px;
+    border: 2px solid;
+    align-self: center;
+    margin-left: 10px;
+}
+
+.intro {
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.introinfo {
+    font-size: 10px;
+}
