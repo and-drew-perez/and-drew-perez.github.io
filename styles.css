@@ -3,6 +3,7 @@ body {
     color: #EBF4F6;
     margin: 0;
     padding: 0;
+    background: #071952;
 }
 
 .introduction {
@@ -14,7 +15,6 @@ body {
     display: flex;
     justify-content: right;
     gap: 20px;
-    background: #071952;
     padding-right: 10px;
 }
 
@@ -35,4 +35,38 @@ body {
 
 .introinfo {
     font-size: 10px;
+}
+
+.calculator {
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+}
+
+#contactMe {
+    background-color: #444;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.calcbutton {
+    background-color: #555;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 1em;
+    width: 240px;
+    margin-top: 7px;
 }
