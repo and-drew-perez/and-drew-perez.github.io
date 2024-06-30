@@ -10,8 +10,8 @@
     padding-right: 10px;
 }
 
-#cme a{
-    text-decoration: none;
+a{
+    text-decoration: underline;
     color: #EBF4F6;
 }
 
