@@ -10,6 +10,11 @@
     padding-right: 10px;
 }
 
+#cme a{
+    text-decoration: none;
+    color: #EBF4F6;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #EBF4F6;
@@ -55,6 +60,7 @@ body {
     border-radius: 10px;
     width: 500px;
     padding: 20px;
+    padding-top: 40px;
 }
 
 #contactMe {
@@ -87,4 +93,9 @@ body {
 
 .calcbutton:hover {
     background: #666;
+}
+
+#calculatorphoto {
+    width: 388px;
+    margin-top: 30px;
 }
