@@ -100,6 +100,14 @@ body {
     margin-top: 30px;
 }
 
+#projectheader h1{
+    margin: auto;
+    color: #071952;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+
 .project {
     display:flex;
     background: #EBF4F6;
@@ -107,7 +115,7 @@ body {
     padding-bottom: 10px;
     color: #071952;
     width: 700px;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 4px;
