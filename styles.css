@@ -51,7 +51,7 @@ body {
 
 .calculator {
     margin: auto;
-    margin-top: 20px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -102,10 +102,10 @@ body {
 
 #projectheader h1{
     margin: auto;
-    color: #071952;
+    color: #EBF4F6;
     text-align: center;
     text-decoration: underline;
-    margin-top: 30px;
+    margin-top: 90px;
 }
 
 .project {
@@ -115,7 +115,7 @@ body {
     padding-bottom: 10px;
     color: #071952;
     width: 700px;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 4px;
