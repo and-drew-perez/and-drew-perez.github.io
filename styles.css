@@ -99,3 +99,57 @@ body {
     width: 388px;
     margin-top: 30px;
 }
+
+.project {
+    display:flex;
+    background: #EBF4F6;
+    padding: 5px;
+    padding-bottom: 10px;
+    color: #071952;
+    width: 700px;
+    margin: auto;
+}
+
+.projectsnapshot {
+    width: 225px;
+    height: 170px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.projectblurbtitle {
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.skills {
+    display: flex;
+    gap: 15px;
+}
+
+.skillbox {
+    border: 2px solid #37B7C3;
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    line-height: 0;
+    
+}
+
+.livelinks {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.livelinksbox a{
+    border: 3px solid #088395;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    line-height: 0;
+    text-decoration: none;
+    color: #071952;
+}
